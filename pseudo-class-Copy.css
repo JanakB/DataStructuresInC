@@ -1,0 +1,15 @@
+input[type="text"]:hover{
+    background-color: rebeccapurple;
+}
+input[type="number"]:focus{
+    color:red;
+}
+#before::before{
+    color: green;
+   content: "what the hell are u saying";
+
+}
+#after::after{
+    color: orange;
+    content: "what the hell are u saying no.2";
+}
